@@ -239,13 +239,12 @@ Terms of Services and Privacy Policy."
         <Button
             android:id="@+id/button3"
             android:textColor="#00ccff"
-            android:background="#e6e6ffjn"
+            android:background="@color/material_on_background_disabled"
             android:layout_width="20dp"
             android:textAllCaps="false"
             android:textAlignment="viewStart"
             android:layout_height="wrap_content"
             android:layout_weight="1"
-            android:backgroundTint="#e6e6ff"
             android:text="Log in" />
     </LinearLayout>
 

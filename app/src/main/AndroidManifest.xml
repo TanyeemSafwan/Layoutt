@@ -10,6 +10,15 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Layoutt">
         <activity
+            android:name=".part5"
+            android:exported="false" />
+        <activity
+            android:name=".part4_2"
+            android:exported="false" />
+        <activity
+            android:name=".part4"
+            android:exported="false" />
+        <activity
             android:name=".part3"
             android:exported="false" />
         <activity
