@@ -190,7 +190,7 @@
             android:id="@+id/imageButton4"
             android:layout_width="48dp"
             android:layout_height="40dp"
-            android:layout_marginLeft="300dp"
+            android:layout_marginLeft="320dp"
             android:layout_marginTop="2dp"
 
             android:backgroundTint="@color/white"
@@ -239,13 +239,13 @@ Terms of Services and Privacy Policy."
         <Button
             android:id="@+id/button3"
             android:textColor="#00ccff"
-            android:background="@color/material_on_background_disabled"
+            android:background="#e6e6ffjn"
             android:layout_width="20dp"
             android:textAllCaps="false"
             android:textAlignment="viewStart"
             android:layout_height="wrap_content"
             android:layout_weight="1"
-            android:backgroundTint="@color/material_on_background_disabled"
+            android:backgroundTint="#e6e6ff"
             android:text="Log in" />
     </LinearLayout>
 

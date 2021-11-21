@@ -10,10 +10,6 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Layoutt">
         <activity
-            android:name=".Part2"
-            android:exported="false" />
-
-        <activity
             android:name=".MainActivity"
             android:exported="true">
             <intent-filter>
